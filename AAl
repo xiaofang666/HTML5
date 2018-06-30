@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>我的第一个网页</title>
+	</head>
+	<body>
+		<h1>我的空间</h1>
+		<h3>我的爱好</h3>
+		<ol>
+	    <li>打篮球</li>
+	    <li>打游戏</li>
+	    <li>看电影</li>
+	    </ol>
+		<hr/>
+		<h3>我的特长</h3>
+		<ul>
+			<li>玩电脑<li/>
+			<li>维修<li/>
+			<li>打游戏<li/>
+	    </ul>
+		<hr/>
+		<dl>
+			<dt>喜欢打篮球的理由</dt>
+			<dd>锻炼身体<dd>
+			<dd>陶冶情操<dd>
+			<dd>很帅气<dd>
+		</dl>
+	</body>
+</html>
